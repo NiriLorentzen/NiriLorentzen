@@ -4,4 +4,4 @@
 
 Niri Lorentzen - Windows 10
 
-git version 2.42.0.windows.2
+github brukernavn: NiriLorentzen
